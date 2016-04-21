@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tema titulo="Tema 1: Introducción, Conceptos Basicos" cantidad_preguntas="2">
+
+<pregunta>
+  <enunciado>A la larga, montar una granja web:</enunciado>
+  <opcionA>Es más complejo y más problemático</opcionA>
+  <opcionB>Es menos complejo y menos problemático</opcionB>
+  <opcionC>La capacidad de dar soporte a un numero creciente de usuarios</opcionC>
+  <opcionD>La capacidad de procesar una peticion web</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>La escalabilidad es:</enunciado>
+  <opcionA>La capacidad de mejorar un servidor</opcionA>
+  <opcionB>La capacidad de aceptar un numero determinado de peticiones</opcionB>
+  <opcionC>La capacidad de dar soporte a un numero creciente de usuarios</opcionC>
+  <opcionD>La capacidad de procesar una peticion web</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+
+</tema>
