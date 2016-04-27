@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tema titulo="Tema 2: Alta Disponibilidad y Escalabilidad" cantidad_preguntas="2">
+
+<pregunta>
+  <enunciado>Señala la acción que más influye en la escalabilidad:</enunciado>
+  <opcionA>Optimización del hardware.</opcionA>
+  <opcionB>Optimización del código.</opcionB>
+  <opcionC>Rediseño.</opcionC>
+  <opcionD>Ninguno de los anteriores influye.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Un balanceador de carga:</enunciado>
+  <opcionA>Es más eficiente cuando es hardware y es más económico.</opcionA>
+  <opcionB>Es más eficiente cuando es software pero es más caro.</opcionB>
+  <opcionC>Es menos eficiente cuando es hardware pero es más caro.</opcionC>
+  <opcionD>Es menos eficiente cunado es software pero es más económico.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+</tema>
